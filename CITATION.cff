@@ -3,6 +3,7 @@
 
 cff-version: 1.2.0
 title: snoRNA
+year: 2023
 message: >-
   This repository includes scripts used for the snoRNA-tRNA
   interaction paper. 
